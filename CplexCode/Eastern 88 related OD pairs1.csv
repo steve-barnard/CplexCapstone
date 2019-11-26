@@ -1,0 +1,5 @@
+﻿Origin - Dest ID,Lane Route,Origin (generate from A),Destination (generate from A),Final Miles,ADV [Corrected],Min. Approximate Throughput
+66-88,66-72,,,976,225,4000
+66-88,70-89,,,232,225,15000
+66-88,72-70,,,240,225,15000
+66-88,89-88,,,0,225,
