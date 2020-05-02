@@ -1,4 +1,4 @@
 # MSBA Capstone
 
-PLace to share and work on code for the optimaztion problem.
+Place to share and work on code for the optimaztion consultation with FedEx.
 
